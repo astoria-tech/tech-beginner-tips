@@ -4,6 +4,8 @@ So you're looking to break into tech. Getting into web app development is the qu
 
 Below are some tips on how to take the first steps in your web development career.
 
+![Banner of code](https://linkedinbackground.com/download/Coding-Website-Layout.jpg "Code banner")
+
 ## Level 0: "I don't know how to code at all"
 
 - **Language-specific online courses** - here are some (free) basic online courses for web-related languages
