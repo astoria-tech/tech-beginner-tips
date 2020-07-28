@@ -32,6 +32,7 @@ Below are some tips on how to take the first steps in your web development caree
 
 - **Build a portfolio of passion projects**
   - Choose simple, bite-sized projects which you can finish in a week or two
+  - For example: a one-page web app which generates a series of gifs based on words that you feed in
   - Put your code on GitHub
 
 - **Choose and learn a specialty**
@@ -45,6 +46,7 @@ Below are some tips on how to take the first steps in your web development caree
   - **QueensJS** (https://www.meetup.com/QueensJS/) - JavaScript meetup hosted in Queens, now virtual
   - **Astoria Tech Meetup** (https://www.meetup.com/Astoria-Tech-Meetup/) - general tech meetup, next virtual meetup at end of August 2020
   - Great places to listen for leads on job postings, join their Slack chatrooms if they have one
+  - Search meetup.com to find other communities
 
 ## Level 2: "I'm ready to look for a job"
 
