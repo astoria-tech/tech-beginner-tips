@@ -38,15 +38,16 @@ Below are some tips on how to take the first steps in your web development caree
 - **Choose and learn a specialty**
   - Common specialties: frontend, backend, infrastructure
   - Learn the most popular frameworks for your specialty
-    - **Frontend**: ReactJS (JavaScript)
-    - **Backend**: Express (node.js), Flask or Django (Python)
+    - **JavaScript Frontend**: ReactJS (https://reactjs.org/)
+    - **JavaScript Backend**: Express (https://expressjs.com/)
+    - **Python Backend**: Django (https://www.djangoproject.com/) or Flask (https://flask.palletsprojects.com/)
 
 - **Join local communities related to your interests**
   - **NYC Mesh** (https://nycmesh.net) - decentralized community internet/network
   - **QueensJS** (https://www.meetup.com/QueensJS/) - JavaScript meetup hosted in Queens, now virtual
   - **Astoria Tech Meetup** (https://www.meetup.com/Astoria-Tech-Meetup/) - general tech meetup, next virtual meetup at end of August 2020
   - Great places to listen for leads on job postings, join their Slack chatrooms if they have one
-  - Search meetup.com to find other communities
+  - Search https://meetup.com to find other communities
 
 ## Level 2: "I'm ready to look for a job"
 
